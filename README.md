@@ -23,8 +23,9 @@
 
 - **Python 3.7+**
 - **BeautifulSoup4** - парсинг HTML
-- **Requests** - HTTP-запросы
-- **lxml** - XML-парсер (бэкенд для BeautifulSoup)
+- **Selenium** - работа с JavaScript-контентом
+- **Webdriver-manager** - автоматическая установка драйверов
+- **Chrome/Chromium** - браузер для рендеринга
 
 ## Установка зависимостей
 
@@ -32,7 +33,6 @@
 
 ```bash
 pip install -r requirements.txt
-```
 
 ## Структура проекта
 
