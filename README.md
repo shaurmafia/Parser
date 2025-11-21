@@ -33,7 +33,8 @@
 ```bash
 pip install -r requirements.txt
 
-## Структура проекта 
+## Структура проекта
+
 ```
 pedagogy-parser/
 ├── parse_pedagogy.py      # Основной скрипт парсера
@@ -42,7 +43,7 @@ pedagogy-parser/
 ├── .gitignore           # Исключения для Git
 └── parsed_articles.json # Пример выходного файла (создается автоматически)
 ```
-```
+
 ## Установка и настройка
 
 ### 1. Клонирование репозитория
