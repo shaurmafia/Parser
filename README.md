@@ -60,7 +60,6 @@ venv\Scripts\activate
 ### 3. Установка зависимостей
 ```
 pip install -r requirements.txt
-pip install requests
 ```
 ### Запуск программы
 ```
