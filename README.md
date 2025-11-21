@@ -40,17 +40,21 @@ pedagogy-parser/
 ```bash
 git clone https://github.com/shaurmafia/parser.git
 cd parser
-
+```
 ### 2. Создание виртуального окружения
+```
 python -m venv venv
 venv\Scripts\activate
-
+```
 ### 3. Установка зависимостей
+```
 pip install -r requirements.txt
-
+```
 ### Запуск программы
+```
 python parse_pedagogy.py
-
+```
+```
 ## Пример вывода в консоли:
 ЗАПУСК ПАРСЕРА СТАТЕЙ PEDSOVET.ORG
 ==================================================
