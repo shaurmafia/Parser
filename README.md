@@ -33,7 +33,7 @@
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Структура проекта
 
 ```
