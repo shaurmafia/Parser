@@ -54,8 +54,8 @@ pip install -r requirements.txt
 ```
 python parse_pedagogy.py
 ```
-```
 ## Пример вывода в консоли:
+```
 ЗАПУСК ПАРСЕРА СТАТЕЙ PEDSOVET.ORG
 ==================================================
 Получаем данные с https://pedsovet.org/...
