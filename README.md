@@ -42,12 +42,10 @@ git clone https://github.com/shaurmafia/parser.git
 cd parser
 
 ### 2. Создание виртуального окружения
-'''bash
 python -m venv venv
 venv\Scripts\activate
 
 ### 3. Установка зависимостей
-'''bash
 pip install -r requirements.txt
 
 ### Запуск программы
