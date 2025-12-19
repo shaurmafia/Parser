@@ -17,4 +17,4 @@ git clone https://github.com/shaurmafia/Parser.git
 cd Parser
 
 pip install -r requirements.txt
-python parser.py
+python parser_ped.py
