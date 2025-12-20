@@ -34,5 +34,5 @@ pip install -r requirements.txt
 ```
 ### Запуск программы
 ```
-parser_ped.py
+python parser_ped.py
 ```
